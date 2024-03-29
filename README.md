@@ -16,3 +16,8 @@ If you are developing a production application, we recommend updating the config
 ```js
 
 ```
+
+## Используемые технологии
+
+- TS [TypeScript](https://www.typescriptlang.org/)
+- ⚛️[React](https://ru.reactjs.org/)
