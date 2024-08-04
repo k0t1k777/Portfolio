@@ -1,9 +1,6 @@
-import './App.css'
+import './App.css';
+import Main from './Main/Main';
 
 export default function App() {
-
-  return (
-<p>АПП</p>
-  )
+  return <Main />;
 }
-

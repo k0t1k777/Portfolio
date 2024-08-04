@@ -1,9 +1,10 @@
-import './App.css'
+import './Main.css';
+import Arrow from '../../ui/Arrow/Arrow';
 
-export default function App() {
-
+export default function Main() {
   return (
-<p>АПП</p>
-  )
+    <section className='main'>
+      <Arrow startX={1} startY={222} endX={1551} endY={1255} />
+    </section>
+  );
 }
-
